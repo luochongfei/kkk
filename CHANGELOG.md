@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/luochongfei/kkk/compare/v1.4.0...v1.5.0) (2021-04-19)
+
+
+### Features
+
+* **src:** 引入脚本 ([81ed44e](https://github.com/luochongfei/kkk/commit/81ed44e7d09ee046067fa827be59eb91ed346bba))
+
 # [1.4.0](https://github.com/luochongfei/kkk/compare/v1.3.0...v1.4.0) (2021-04-19)
 
 
