@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/luochongfei/kkk/compare/v1.2.0...v1.3.0) (2021-04-19)
+
+
+### Features
+
+* **dist:** ooooower ([9935165](https://github.com/luochongfei/kkk/commit/99351650e4f9b7bf82ae6658ebdd2f4738b2c9ad))
+
 # [1.2.0](https://github.com/luochongfei/kkk/compare/v1.1.1...v1.2.0) (2021-04-19)
 
 
