@@ -9,7 +9,9 @@
   "scripts": {
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 3 && git add CHANGELOG.md"
   },
-  "keywords": ["kkk"],
+  "keywords": [
+    "kkk"
+  ],
   "author": "luochongfei",
   "license": "GPL",
   "config": {
