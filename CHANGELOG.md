@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/luochongfei/kkk/compare/v1.1.0...v1.1.1) (2021-04-19)
+
+
+### Bug Fixes
+
+* **dist:** 8888->9999 ([8dd956a](https://github.com/luochongfei/kkk/commit/8dd956a155ecfe1b0748cde1f6e06391c60f2492))
+
 # [1.1.0](https://github.com/luochongfei/kkk/compare/v1.0.3...v1.1.0) (2021-04-19)
 
 
