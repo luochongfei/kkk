@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/luochongfei/kkk/compare/v1.3.0...v1.4.0) (2021-04-19)
+
+
+### Bug Fixes
+
+* **package:** 修复package依赖 ([bbd1f2d](https://github.com/luochongfei/kkk/commit/bbd1f2da7eb488586ce7ee8e7469651ab71c78bf))
+
+
+### Features
+
+* **src:** 给页面添加样式 ([6b1327c](https://github.com/luochongfei/kkk/commit/6b1327c1871e551affc932348e72fce60fb8f42b))
+
 # [1.3.0](https://github.com/luochongfei/kkk/compare/v1.2.0...v1.3.0) (2021-04-19)
 
 
