@@ -6,6 +6,9 @@
   "unpkg": "dist/index.min.js",
   "main": "index.js",
   "repository": "https://github.com/luochongfei/kkk",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 3 && git add CHANGELOG.md"
   },
