@@ -1,15 +1,17 @@
 {
-  "name": "kkk",
+  "name": "@luochongfei/kkk",
   "version": "1.0.2",
-  "description": "",
+  "description": "提交自动化测试",
+  "jsdelivr": "dist/index.min.js",
+  "unpkg": "dist/index.min.js",
   "main": "index.js",
   "repository": "https://github.com/luochongfei/kkk",
   "scripts": {
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 3 && git add CHANGELOG.md"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["kkk"],
+  "author": "luochongfei",
+  "license": "GPL",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"

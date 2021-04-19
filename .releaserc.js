@@ -5,22 +5,8 @@ module.exports = {
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
         "@semantic-release/changelog",
-        // "@semantic-release/npm",
-        [
-            "@semantic-release/git",
-            {
-                "assets": [
-                    "package.json",
-                    "CHANGELOG.md"
-                ],
-                "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
-            }
-        ],
-        [
-            "@semantic-release/github",
-            {
-                "assets": "dist/*.tgz"
-            }
-        ]
+        "@semantic-release/git",
+        "@semantic-release/github",
+        "@semantic-release/npm",
     ],
 }
