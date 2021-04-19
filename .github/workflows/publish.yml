@@ -8,9 +8,19 @@ jobs:
     steps:
     - name: 检索文件
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
 
-    - name: install
+    - name: 设置Node版本
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
+
+    - name: 安装依赖
       run: npm install
 
-    - name: 生成
-      run: npx run semantic-release
+    - name: release
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      run: npx semantic-release
